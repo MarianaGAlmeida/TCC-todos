@@ -8,7 +8,7 @@
 
   Neste repositório buscamos reunir análises de dados referentes ao insumo CUSTOS OPERACIONAIS REAIS e às suas componentes PMSO. 
 
-  Os dados utilizados estão disponibilizados no site da ANEEL (Agência Nacional de Energia Elétrica):
+  Os dados utilizados estão disponibilizados no site da agência:
 
 * [CP 062/2020](https://www.aneel.gov.br/consultas-publicas?p_auth=tpgjXTaM&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=3477&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica) : Arquivos da Consulta Pública nº 062/2020.
 
