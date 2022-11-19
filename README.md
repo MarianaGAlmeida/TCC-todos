@@ -6,7 +6,7 @@
 
   Segundo trabalho acadêmico de Farina (2017), aproximadamente 80% do total desses custos está concentrado em Pessoal e Serviços de Terceiros (3).
 
-  Neste repositório buscamos reunir análises de dados referentes ao insumo CUSTOS OPERACIONAIS REAIS e às suas componentes PMSO. 
+  Neste repositório buscamos reunir análises de dados referentes ao insumo CUSTOS OPERACIONAIS REAIS e às suas componentes PMSO - Pessoal, Materiais, Serviços de Terceiros, Outros Custos Operacionais. 
 
   Os dados utilizados estão disponibilizados no site da agência:
 
