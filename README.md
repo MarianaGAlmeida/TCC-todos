@@ -25,18 +25,21 @@ ELEKTRO: Componentes PMSO
 
 //
 
-
 # K-MEANS, SELF-ORGANIZING MAPS (SOM) e MINERAÇÃO DE TEXTOS
-
 São utilizadas ferrametas de análise e mineração de dados que buscam sintetizar as diferenças entre as distribuidoras no que tange à composição (PMSO) do custos operacionais das distribuidoras:
 
 1) imagen K-MEans
-2)imagem SOM
-3)imagem ANEEL processos trabalhistas
 
-//
+![k-means imagem](https://user-images.githubusercontent.com/93783315/204114981-dc3700bd-3287-4f12-b704-2f676497d102.jpg)
 
 
+
+
+3)imagem SOM
+4)imagem ANEEL processos trabalhistas
+
+ 
+# Produtos (outputs)
 Posto que a correlação entre os produtos(outputs) é um assunto recorrente em artigos acerca da adequação de modelos DEA, também apresentamos breve análise sobre essa questão na pasta PASTA. 
 
 ![image](https://user-images.githubusercontent.com/93783315/143915435-01ca03c0-0aae-42c6-8553-18bd203e14a8.png)
