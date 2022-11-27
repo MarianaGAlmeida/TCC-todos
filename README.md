@@ -36,7 +36,11 @@ São utilizadas ferrametas de análise e mineração de dados que buscam sinteti
 
 
 3)imagem SOM
+
+
 4)imagem ANEEL processos trabalhistas
+
+![processos_trabalhistas_imagem](https://user-images.githubusercontent.com/93783315/204115161-149cdead-a691-43f2-b819-a4e968367e23.jpg)
 
  
 # Produtos (outputs)
